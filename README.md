@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/105915693/195300659-85932cd8-6661-42ac-b4e0-3ed706bc9661.png)
 ![image](https://user-images.githubusercontent.com/105915693/195300795-5b630e52-628b-4295-898e-54db89ca49fe.png)
-![image](https://user-images.githubusercontent.com/105915693/195300962-c100bd36-cd93-4170-9701-21d396c38e9b.png)
 
 # Kids_page
 ![image](https://user-images.githubusercontent.com/105915693/195300962-c100bd36-cd93-4170-9701-21d396c38e9b.png)
