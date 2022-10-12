@@ -21,8 +21,8 @@
 
 
 # Team-members
-1.Mayuri-Saha
+1.Mayuri Saha
 2.Masoom Rizvi
 3.Saurabh Rana
-4.Prashant_mulukh
+4.Prashant Mulukh
 5.Sandeep Prajapati
