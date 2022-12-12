@@ -26,3 +26,8 @@
 3.Saurabh Rana
 4.Prashant Mulukh
 5.Sandeep Prajapati
+
+# Tech-Stack used
+1.HTML
+2.CSS
+3.javascript
