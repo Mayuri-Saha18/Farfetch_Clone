@@ -8,7 +8,7 @@ Farfetch is a British-Portuguese online luxury fashion retail platform that sell
    - User can filter and sort the products according to price, and category
    - User can add to cart the product and  updated price will reflect and also can delete the products also
    - Checkout
-   - 
+  
 # Home_page
 
 ![image](https://user-images.githubusercontent.com/105915693/195300659-85932cd8-6661-42ac-b4e0-3ed706bc9661.png)
